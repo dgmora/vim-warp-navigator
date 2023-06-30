@@ -1,5 +1,9 @@
-Vim Tmux Navigator
+Vim Warp Navigator
 ==================
+
+This has been copied from https://github.com/christoomey/vim-tmux-navigator and tried
+to adapt to Warp terminal. So it would be possible to switch panes seamlessly, but
+instead of with tmux with Warp
 
 This plugin is a repackaging of [Mislav Marohnić's](https://mislav.net/) tmux-navigator
 configuration described in [this gist][]. When combined with a set of tmux
